@@ -1,1 +1,1 @@
-# Spotify-Popularity-Prediction-Model
+# Spotify Popularity Prediction Model by Joseph Kim 
