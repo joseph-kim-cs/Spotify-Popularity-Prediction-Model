@@ -8,4 +8,7 @@ UMAP of 125 genres from 114,000 Spotify genres.
 
 ![image](https://github.com/joseph-kim-cs/Spotify-Popularity-Prediction-Model/assets/112025275/93d18071-b2cc-4451-a9e4-12042739b1e4)
 
+Predicting popularity of a Spotify track using classifiers: 
+
+![image](https://github.com/user-attachments/assets/55a8ee22-3254-4d88-aa5c-b8f6becfd33a)
 
